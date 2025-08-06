@@ -33,3 +33,24 @@ State-wise Sales – Compares sales performance across different states.
 
 Interactive Timeline Filter – Enables selection of custom date ranges for analysis.
 
+
+📊 Tools & Technologies
+
+Power BI Desktop – Data visualization and dashboard creation.
+
+Data Analysis Expressions (DAX) – For calculated fields and KPIs.
+
+Power BI Forecasting – For predicting future sales trends.
+
+📈 Key Insights
+
+Top-selling Category: Office Supplies (~0.64M in sales)
+
+Highest Sales Segment: Consumer (48.09% of sales)
+
+Most Used Payment Mode: COD (42.62% of sales)
+
+Seasonality: Sales peak during the last quarter of the year.
+
+State with Highest Sales: Texas (~0.12M sales)
+
